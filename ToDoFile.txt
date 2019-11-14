@@ -1,0 +1,3 @@
+Make Dinner,high
+Take Test,high
+Do Dishes,low
